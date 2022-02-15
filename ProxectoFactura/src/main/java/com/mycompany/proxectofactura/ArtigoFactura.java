@@ -1,3 +1,5 @@
+package com.mycompany.proxectofactura;
+
 /**
  *
  * @author Tito Mourullo Miguez <tito at iessanclement.net>
