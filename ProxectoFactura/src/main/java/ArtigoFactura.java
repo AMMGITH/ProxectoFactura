@@ -4,6 +4,7 @@
  * @date Feb 15, 2022
  * @time 4:57:51 PM
  */
+//Vou engadir un comentario
 public class ArtigoFactura {
     
     private String id;
